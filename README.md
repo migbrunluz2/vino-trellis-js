@@ -52,7 +52,7 @@ client.login(function(err, key, username) {
 In the pipeline
 ---------------
 
-~~- Research workaround for Twitter OAuth~~ Never happening.
+~~- Research workaround for Twitter OAuth~~ Never happening. Maybe i might add it with Chirp support,but who knows.
 - Get other users feeds
 - Improve request() boilerplate disaster
 
