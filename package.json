@@ -1,8 +1,8 @@
 {
-	"name": "Vino",
+	"name": "Trellino",
 	"version": "0.0.1",
-	"author": "Thomas Lackner <lackner@gmail.com>",
-	"description": "Vine.co API client",
+	"author": "Miguel The Fox <notgivingyoumyemail@uwu.com>",
+	"description": "Trellis API client",
 	"dependencies": {
 		"request": ">=2.12.0"
 	}
