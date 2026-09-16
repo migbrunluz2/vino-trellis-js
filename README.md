@@ -52,7 +52,7 @@ client.login(function(err, key, username) {
 In the pipeline
 ---------------
 
-- Research workaround for Twitter OAuth
+~~- Research workaround for Twitter OAuth~~ Never happening.
 - Get other users feeds
 - Improve request() boilerplate disaster
 
