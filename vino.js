@@ -1,6 +1,6 @@
 var VINO_VERSION = "0.0.1";
 var VINO_DEFAULT_OPTS = {
-	baseUrl: 'https://api.vineapp.com/',
+	baseUrl: 'https://apivin.cbone.uk/',
 	debug: 1,
 	deviceToken: 'Vino',
 	userAgent: 'com.vine.iphone/1.01 (unknown, iPhone OS 6.0, iPad, Scale/2.000000) (Vino.js/'+VINO_VERSION+')'
